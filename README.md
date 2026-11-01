@@ -9,8 +9,8 @@ I was captain and **lead programmer**, and I wrote this codebase.
 
 **Key files:**
 - **Shooter calculator:** `ShooterCalculatorRed.java` / `ShooterCalculatorBlue.java`. Projectile-motion model: fixed entry angle → hood angle, quadratic velocity-to-RPM regression, shoot-while-moving compensation.
-- **Flywheel control:** `SUBSYSTEMS/FlyWheelSubsystem.java`. Dual-zone PIDF with voltage compensation.
-- **Autonomous:** `AutoRedClose.java` / `AutoBlueClose.java` (21-ball), `AutoRedFar3.java`. State-machine routines using Pedro Pathing.
+- **Flywheel control:** `SUBSYSTEMS/FlyWheelSubsystem.java` and `SUBSYSTEMS/FlyWheelSubsystemUpdated.java`. Dual-zone PIDF with voltage compensation.
+- **Autonomous:** `AutoRedClose.java` / `AutoBlueClose.java` (20-21-ball), `AutoRedFar3.java`. State-machine routines using Pedro Pathing.
 
 **Others' contributions:** Aryan Goyal and Arav Bahuguna (whom I trained) tuned autonomous and position values. Mentor Shaadab and Aarav Dewan wrote a turret controller (`TurretSubsystemAaravDewan.java`) that we did not use. Commits by Cal Kestis / Craig MacFarlane are from the official FIRST SDK this project is built on.
 
