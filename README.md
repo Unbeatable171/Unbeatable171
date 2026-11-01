@@ -1,6 +1,6 @@
 # Abhiram Krishna
 
-I build machines that sense and react. These are the code repositories for my MIT Maker Portfolio.
+I build machines that sense and react. These are the code repositories of my projects.
 
 ## 1. FTC Team Orbit #28831 – DECODE 2025–26 (team project)
 🔗 [Orbit_Internationals](https://github.com/Unbeatable171/Orbit_Internationals)
